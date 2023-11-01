@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ApnaCollege.iml" filepath="$PROJECT_DIR$/ApnaCollege.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays_1/Arrays_1.iml" filepath="$PROJECT_DIR$/Arrays_1/Arrays_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" filepath="$PROJECT_DIR$/ConditionalStatements/ConditionalStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatements/Exercises/Exercises.iml" filepath="$PROJECT_DIR$/ConditionalStatements/Exercises/Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionsAndMethods/FunctionsAndMethods.iml" filepath="$PROJECT_DIR$/FunctionsAndMethods/FunctionsAndMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops_FlowControl/Loops_FlowControl.iml" filepath="$PROJECT_DIR$/Loops_FlowControl/Loops_FlowControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperatorsInJava/OperatorsInJava.iml" filepath="$PROJECT_DIR$/OperatorsInJava/OperatorsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns_1/Patterns_1.iml" filepath="$PROJECT_DIR$/Patterns_1/Patterns_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns_2/Patterns_2.iml" filepath="$PROJECT_DIR$/Patterns_2/Patterns_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablesAndDataTypes/VariablesAndDataTypes.iml" filepath="$PROJECT_DIR$/VariablesAndDataTypes/VariablesAndDataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionsAndMethods/exercise/exercise.iml" filepath="$PROJECT_DIR$/FunctionsAndMethods/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VariablesAndDataTypes/exercises/exercises.iml" filepath="$PROJECT_DIR$/VariablesAndDataTypes/exercises/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops_FlowControl/z_exercises/z_exercises.iml" filepath="$PROJECT_DIR$/Loops_FlowControl/z_exercises/z_exercises.iml" />
+    </modules>
+  </component>
+</project>
