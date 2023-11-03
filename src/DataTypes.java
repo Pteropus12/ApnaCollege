@@ -1,6 +1,6 @@
 public class DataTypes {
     public static void main(String args[]){
-        byte b = 150;
+        byte b = (byte) 150;
         System.out.println(b);
         char ch = 'a';
         System.out.println(ch);
