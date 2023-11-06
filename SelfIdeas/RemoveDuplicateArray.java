@@ -16,6 +16,7 @@ public class RemoveDuplicateArray {
                 arr2[index] = arr[i];
                 index++;
             }
+
         }
 
         for(int k=0; k<index ; k++) {
