@@ -78,18 +78,18 @@ public class Sortings {
     public static void main(String args[]){
         int[] numbers = {1,5,6,7,2,4,1,3,5};
         int[] sorted = {5,4,3,2,1};
-//        bubbleSort(numbers);
-//        arrayPrint(numbers);
-//        bubbleSort(sorted);
-//        arrayPrint(sorted);
-//
-//        selectionSort(numbers);
-//        arrayPrint(numbers);
+        bubbleSort(numbers);
+        arrayPrint(numbers);
+        bubbleSort(sorted);
+        arrayPrint(sorted);
 
-//        insertionSort(numbers);
-//        arrayPrint(numbers);
+        selectionSort(numbers);
+        arrayPrint(numbers);
 
-//        Arrays.sort(sorted,Collections.reverseOrder());
+        insertionSort(numbers);
+        arrayPrint(numbers);
+
+        Arrays.sort(sorted,Collections.reverseOrder());
         arrayPrint(sorted);
     }
 }
