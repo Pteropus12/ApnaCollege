@@ -193,11 +193,11 @@ public class Patterns {
         //invertedPyramid2(1);
         //invertedHalfPyramidWithNumbers(5);
         //invertedHalfPyramidWithNumbers2(5);
-        //floydsTriangle1(5);
-        zero_one_triangle_1(5);
-        butterfly_1(5);
-        solid_rhombus(5);
-        hollow_rhombus(5);
-        diamond_pattern(80);
+        floydsTriangle1(5);
+//        zero_one_triangle_1(5);
+//        butterfly_1(5);
+//        solid_rhombus(5);
+//        hollow_rhombus(5);
+//        diamond_pattern(80);
     }
 }
