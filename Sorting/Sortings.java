@@ -20,6 +20,9 @@ public class Sortings {
         }
     }
 
+
+
+
     //increasing
     public static void selectionSort(int[] arr){
         for(int i=0; i<arr.length-1 ; i++){
@@ -59,10 +62,18 @@ public class Sortings {
         }
         //array to store frequencies of elements
         int count[] = new int[largest+1];
-
-        //storing frequency of numbers in count array
         for(int i=0 ; i<array.length ; i++){
             count[array[i]]++;
+        }
+
+        //storing frequency of numbers in count array
+        int j=0;
+        for(int i=0; i<count.length ; i++){
+            while (count[i]>0){
+                array[j]=i;
+                j++;
+                count[i]--;
+            }
         }
 
     }
@@ -85,11 +96,13 @@ public class Sortings {
 //
 //        selectionSort(numbers);
 //        arrayPrint(numbers);
-
+//
 //        insertionSort(numbers);
 //        arrayPrint(numbers);
-
+//
 //        Arrays.sort(sorted,Collections.reverseOrder());
-        arrayPrint(sorted);
+//        arrayPrint(sorted);
+        countSort(numbers);
+        arrayPrint(numbers);
     }
 }
