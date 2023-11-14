@@ -89,6 +89,7 @@ public class Sortings {
     public static void main(String args[]){
         int[] numbers = {1,5,6,7,2,4,1,3,5};
         int[] sorted = {5,4,3,2,1};
+<<<<<<< HEAD
 //        bubbleSort(numbers);
 //        arrayPrint(numbers);
 //        bubbleSort(sorted);
@@ -104,5 +105,20 @@ public class Sortings {
 //        arrayPrint(sorted);
         countSort(numbers);
         arrayPrint(numbers);
+=======
+        bubbleSort(numbers);
+        arrayPrint(numbers);
+        bubbleSort(sorted);
+        arrayPrint(sorted);
+
+        selectionSort(numbers);
+        arrayPrint(numbers);
+
+        insertionSort(numbers);
+        arrayPrint(numbers);
+
+        Arrays.sort(sorted,Collections.reverseOrder());
+        arrayPrint(sorted);
+>>>>>>> f6b1e9ad17cf639baf038fe4fa6e75abadcd9566
     }
 }
